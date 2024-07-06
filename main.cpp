@@ -16,7 +16,7 @@ int num(int num1, int num2) {
 
 int main() {
        int num1, num2;
-// calling the function aboove
+// calling the function above
   int sum =num(num1 , num2);
     cout<<"Sum of the numbers is:"<<sum<<"\n";// outputs the sum of the two numbers entered.
 
